@@ -169,3 +169,6 @@ pip install pandas numpy matplotlib shapely geopandas geopy pyarrow s3fs scikit-
 - **Dockerize** the application for simplified deployment.
 
 ---
+
+
+### Refer to Plotsmap.ipynb for step by step understanding and plots
